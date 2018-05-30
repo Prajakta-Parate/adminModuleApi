@@ -1,0 +1,41 @@
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Services.dll.config
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Services.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Services.pdb
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Entity.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\EntityFramework.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Repository.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Entity.pdb
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Entity.dll.config
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Repository.pdb
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\Repository.dll.config
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\EntityFramework.xml
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\obj\Debug\Services.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Services\obj\Debug\Services.pdb
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Services.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Services.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Services.pdb
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Entity.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\EntityFramework.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Newtonsoft.Json.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Repository.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Web.Http.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Entity.pdb
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Entity.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Repository.pdb
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Repository.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\EntityFramework.xml
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\Newtonsoft.Json.xml
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Web.Http.xml
+D:\project(16-05-18)\Project(16-5-18)\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\project(16-05-18)\Project(16-5-18)\Services\obj\Debug\Services.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\obj\Debug\Services.pdb
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Web.Cors.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Web.Http.Cors.dll
+D:\project(16-05-18)\Project(16-5-18)\Services\bin\Debug\System.Web.Http.Cors.xml

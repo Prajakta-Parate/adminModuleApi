@@ -1,0 +1,251 @@
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\ApplicationInsights.config
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\csc.exe
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\csc.exe.config
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\csc.rsp
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\csi.exe
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\csi.rsp
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\System.AppContext.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\System.Collections.Immutable.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\System.IO.FileSystem.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\vbc.exe
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\vbc.exe.config
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\vbc.rsp
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\VBCSCompiler.exe
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\roslyn\VBCSCompiler.exe.config
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Api.dll.config
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Api.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Api.pdb
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Antlr3.Runtime.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Entity.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\EntityFramework.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\EntityFramework.SqlServer.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.Web.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.WindowsServer.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.ApplicationInsights.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Google.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Web.Infrastructure.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Newtonsoft.Json.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Owin.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Net.Http.Formatting.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Helpers.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Http.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Http.Owin.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Http.WebHost.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Mvc.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Optimization.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Razor.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.WebPages.Deployment.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.WebPages.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.WebPages.Razor.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\WebGrease.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Entity.pdb
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Entity.dll.config
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Newtonsoft.Json.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Net.Http.Formatting.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Helpers.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Http.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Http.WebHost.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Mvc.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Optimization.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Razor.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.WebPages.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.WebPages.Deployment.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.WebPages.Razor.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Antlr3.Runtime.pdb
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\EntityFramework.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\EntityFramework.SqlServer.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Google.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\System.Web.Http.Owin.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.ApplicationInsights.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.WindowsServer.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Microsoft.AI.Web.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\obj\Debug\Api.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\obj\Debug\Api.pdb
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Autofac.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Autofac.Integration.WebApi.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\NLog.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Autofac.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\Autofac.Integration.WebApi.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\bin\NLog.xml
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\obj\Debug\Api.Migrations.imm.resources
+c:\users\prajaktaparate\documents\visual studio 2017\Projects\Project(16-5-18)\Api\obj\Debug\Api.csproj.GenerateResource.Cache
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Api\bin\Repository.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Api\bin\Services.dll
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Api\bin\Repository.pdb
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Api\bin\Repository.dll.config
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Api\bin\Services.pdb
+C:\Users\prajaktaparate\Documents\Visual Studio 2017\Projects\Project(16-5-18)\Api\bin\Services.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\ApplicationInsights.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\csc.exe
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\csc.exe.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\csc.rsp
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\csi.exe
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\csi.rsp
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\System.AppContext.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\System.Collections.Immutable.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\System.IO.FileSystem.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\vbc.exe
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\vbc.exe.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\vbc.rsp
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\VBCSCompiler.exe
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\roslyn\VBCSCompiler.exe.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Api.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Api.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Api.pdb
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Antlr3.Runtime.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Autofac.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Autofac.Integration.WebApi.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Entity.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\EntityFramework.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\EntityFramework.SqlServer.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.Web.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.WindowsServer.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.ApplicationInsights.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Google.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Web.Infrastructure.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Newtonsoft.Json.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\NLog.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Owin.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Repository.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Services.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Net.Http.Formatting.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Helpers.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.Owin.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.WebHost.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Mvc.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Optimization.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Razor.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.WebPages.Deployment.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.WebPages.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.WebPages.Razor.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\WebGrease.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Entity.pdb
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Entity.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Repository.pdb
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Repository.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Services.pdb
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Services.dll.config
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Autofac.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Autofac.Integration.WebApi.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\NLog.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Newtonsoft.Json.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Net.Http.Formatting.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Helpers.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.WebHost.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Mvc.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Optimization.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Razor.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.WebPages.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.WebPages.Deployment.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.WebPages.Razor.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Antlr3.Runtime.pdb
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\EntityFramework.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\EntityFramework.SqlServer.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Google.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.Owin.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.ApplicationInsights.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.WindowsServer.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.AI.Web.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+D:\project(16-05-18)\Project(16-5-18)\Api\obj\Debug\Api.Migrations.imm.resources
+D:\project(16-05-18)\Project(16-5-18)\Api\obj\Debug\Api.csproj.GenerateResource.Cache
+D:\project(16-05-18)\Project(16-5-18)\Api\obj\Debug\Api.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\obj\Debug\Api.pdb
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Cors.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.Cors.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\System.Web.Http.Cors.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Hosting.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Testing.dll
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Hosting.xml
+D:\project(16-05-18)\Project(16-5-18)\Api\bin\Microsoft.Owin.Testing.xml
